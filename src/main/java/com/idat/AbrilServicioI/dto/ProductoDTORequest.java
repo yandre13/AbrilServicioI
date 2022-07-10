@@ -38,5 +38,4 @@ public class ProductoDTORequest {
 		this.stockDTO = stockDTO;
 	}
 	
-	
 }

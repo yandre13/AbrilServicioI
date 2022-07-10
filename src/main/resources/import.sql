@@ -1,0 +1,1 @@
+insert into usuarios(usuario, password, rol) values('prosor', '$2a$12$cAQabFYFExf/xjB4OWSWlO72z.oulxpr96qmpxbKiOONKK7ZkjLk6', 'ROLE_ADMIN');
